@@ -1,4 +1,4 @@
-module alex-campulungeanu.github.com/logarul
+module github.com/alex-campulungeanu/logarul
 
 go 1.24.0
 
